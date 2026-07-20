@@ -2,7 +2,7 @@
 
 ![BILI Android TV](docs/readme-images/app-banner.png)
 
-**BILI 是一个由个人维护的非官方 Android TV 第三方客户端，仅作为个人兴趣开发，仅供学习与交流使用，与哔哩哔哩及相关权利方不存在隶属、授权或背书关系，如果侵害到了您的权益，请联系我，我将自行删库。应用免费提供不包含付费、破解或越权访问功能。为防止被他人乱用，当前及后续源代码采用私有闭源方式维护。**
+**BILI 是一个由个人维护的非官方 Android TV 第三方客户端，与哔哩哔哩及相关权利方不存在隶属、授权或背书关系。应用免费提供，不包含付费、破解或越权访问功能。当前及后续源代码采用私有闭源方式维护。**
 
 > 注意：本项目不是哔哩哔哩官方客户端。网页端接口可能随时调整；部分影视内容、高清画质和地区限制内容取决于账号权限。请勿分享账号 Cookie。
 
@@ -24,11 +24,14 @@
 ## 应用截图
 
 ![首页推荐](docs/readme-images/home.png)
+![关注动态](docs/readme-images/dynamic.png)
+![扫码登录](docs/readme-images/account-login.png)
+![搜索页面](docs/readme-images/search.png)
 ![番剧页面](docs/readme-images/bangumi.png)
 ![影视页面](docs/readme-images/movies.png)
-![番剧详情](docs/readme-images/bangumi-detail.png)
-![电影详情](docs/readme-images/movie-detail.png)
-![关于应用](docs/readme-images/about.png)
+![番剧索引](docs/readme-images/bangumi-index.png)
+![影视索引](docs/readme-images/movie-index.png)
+![历史续播](docs/readme-images/player-resume.png)
 
 ## 隐私与数据
 
@@ -36,6 +39,19 @@
 - 登录 Cookie、设置、搜索历史和本地播放进度保存在 Android 应用私有目录。
 - 正式版关闭 Android 系统备份，避免登录 Cookie 随设备备份迁移。
 - 清除账号数据或卸载应用会删除本机登录凭证。
+
+## 致谢
+
+本项目的构建优化、网络请求、媒体播放、数据存储、图片加载和二维码能力使用了以下开源项目，感谢原作者和维护者的工作：
+
+- [AndroidX / Jetpack](https://github.com/androidx/androidx)：Jetpack Compose、DataStore、Baseline Profiles 等 Android 基础能力
+- [AndroidX Media3](https://github.com/androidx/media)：ExoPlayer 媒体播放与播放器组件
+- [OkHttp](https://github.com/square/okhttp)：接口请求、媒体数据源和网络测试工具
+- [Kotlinx Serialization](https://github.com/Kotlin/kotlinx.serialization)：接口数据序列化与解析
+- [Coil](https://github.com/coil-kt/coil)：Compose 图片加载
+- [ZXing](https://github.com/zxing/zxing)：登录和更新页面的二维码生成
+
+以上项目的版权及许可归各自作者所有，本项目按照对应开源许可证使用。
 
 ## 闭源维护与版权
 
