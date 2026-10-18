@@ -51,12 +51,12 @@ Android 6.0+ · 免费使用 · 多账号 · 私有闭源维护
   </tr>
 </table>
 
-### 搜索与关注
+### 搜索、直播与关注
 
 <table>
   <tr>
     <td width="50%" align="center"><a href="docs/readme-images/search.jpg"><img src="docs/readme-images/search.jpg" alt="搜索：搜索框、搜索历史和热搜" width="100%"></a><br><strong>搜索</strong><br>搜索历史与热搜入口</td>
-    <td width="50%" align="center"><a href="docs/readme-images/video-feed.jpg"><img src="docs/readme-images/video-feed.jpg" alt="视频：关注、推荐及分区标签" width="100%"></a><br><strong>视频分区</strong><br>按关注、推荐或分区浏览</td>
+    <td width="50%" align="center"><a href="docs/readme-images/video-feed.jpg"><img src="docs/readme-images/video-feed.jpg" alt="直播：关注、推荐及直播分区" width="100%"></a><br><strong>直播分区</strong><br>按关注、推荐或分区浏览直播</td>
   </tr>
   <tr>
     <td align="center"><a href="docs/readme-images/dynamic.jpg"><img src="docs/readme-images/dynamic.jpg" alt="动态：最常访问 UP 与全部动态，内容已打码" width="100%"></a><br><strong>关注动态</strong><br>集中查看关注 UP 的更新</td>
