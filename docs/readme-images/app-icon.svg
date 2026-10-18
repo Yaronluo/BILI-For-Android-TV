@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108" viewBox="0 0 108 108" role="img" aria-label="BILI 应用图标">
+  <!-- Ported from app/src/main/res/drawable/ic_launcher.xml. -->
+  <path fill="#111827" d="M0,0h108v108h-108z"/>
+  <path fill="none" stroke="#7DD3FC" stroke-linecap="round" stroke-width="5" d="M41,31L33,22M67,31L75,22"/>
+  <path fill="#FB7299" d="M34,30H74A14,14 0,0 1,88 44V68A14,14 0,0 1,74 82H34A14,14 0,0 1,20 68V44A14,14 0,0 1,34 30Z"/>
+  <path fill="#172033" d="M35,36H73A9,9 0,0 1,82 45V67A9,9 0,0 1,73 76H35A9,9 0,0 1,26 67V45A9,9 0,0 1,35 36Z"/>
+  <path fill="#FFFFFF" d="M46,43L68,56L46,69Z"/>
+  <path fill="#7DD3FC" d="M79,75A3,3 0,1 1,79 81A3,3 0,1 1,79 75Z"/>
+</svg>
